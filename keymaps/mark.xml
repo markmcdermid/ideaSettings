@@ -157,6 +157,9 @@
   <action id="Macro.semi">
     <keyboard-shortcut first-keystroke="meta semicolon" />
   </action>
+  <action id="Macro.semicolon">
+    <keyboard-shortcut first-keystroke="meta semicolon" />
+  </action>
   <action id="MethodDown" />
   <action id="MethodUp" />
   <action id="NewElement">

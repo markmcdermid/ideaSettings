@@ -113,9 +113,7 @@
     <keyboard-shortcut first-keystroke="meta add" />
   </action>
   <action id="FileChooser.GotoProject" />
-  <action id="FileStructurePopup">
-    <keyboard-shortcut first-keystroke="meta e" />
-  </action>
+  <action id="FileStructurePopup" />
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="shift ctrl d" />
   </action>
@@ -134,6 +132,10 @@
     <keyboard-shortcut first-keystroke="ctrl g" />
   </action>
   <action id="GotoAction" />
+  <action id="GotoNextError">
+    <keyboard-shortcut first-keystroke="f2" />
+    <keyboard-shortcut first-keystroke="meta e" />
+  </action>
   <action id="GotoTest" />
   <action id="Images.Editor.ZoomIn">
     <keyboard-shortcut first-keystroke="meta add" />
@@ -257,6 +259,7 @@
   <action id="ToggleDistractionFreeMode">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
+  <action id="UML.ShowStructure" />
   <action id="Uml.NewElement">
     <keyboard-shortcut first-keystroke="meta n" />
   </action>

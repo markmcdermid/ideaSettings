@@ -1,15 +1,18 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern=".env.dev" type="PLAIN_TEXT" />
       <mapping pattern=".env.prod" type="PLAIN_TEXT" />
       <mapping pattern="corporate-pensions-scv-ods.js" type="PLAIN_TEXT" />
       <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="FilteredDevelopmentList" type="PLAIN_TEXT" />
+      <mapping pattern=".env.urbancode" type="PLAIN_TEXT" />
+      <mapping pattern=".env.local" type="PLAIN_TEXT" />
+      <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern=".env.test" type="PLAIN_TEXT" />
       <mapping pattern="fpr-ui-scv-testcafe" type="PLAIN_TEXT" />
+      <mapping pattern=".env.rancher" type="PLAIN_TEXT" />
       <mapping ext="rancherdeploy" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
     </extensionMap>

@@ -147,4 +147,10 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="pt" value="import PropTypes from 'prop-types';" description="react component" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>

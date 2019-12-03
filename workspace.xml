@@ -3,6 +3,7 @@
     <option name="disabledHintProviderIds">
       <set>
         <option value="TypeScript.ts.enum.hints" />
+        <option value="TypeScript.ts.type.hints" />
       </set>
     </option>
   </component>

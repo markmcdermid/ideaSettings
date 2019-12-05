@@ -1,0 +1,12 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="Tidy">
+      <action id="Javascript.Linters.EsLint.Fix" />
+      <action id="OptimizeImports" />
+    </macro>
+    <macro name="Tidy2">
+      <action id="OptimizeImports" />
+      <action id="Javascript.Linters.EsLint.Fix" />
+    </macro>
+  </component>
+</application>

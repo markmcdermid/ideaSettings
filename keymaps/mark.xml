@@ -4,6 +4,10 @@
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
   <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="meta 2" />
+  </action>
   <action id="Arrangement.Alias.Rule.Add">
     <keyboard-shortcut first-keystroke="meta n" />
   </action>
@@ -11,6 +15,10 @@
     <keyboard-shortcut first-keystroke="meta n" />
   </action>
   <action id="AutoIndentLines" />
+  <action id="CheckinProject">
+    <keyboard-shortcut first-keystroke="meta k" />
+    <keyboard-shortcut first-keystroke="ctrl g" />
+  </action>
   <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
@@ -125,7 +133,6 @@
   </action>
   <action id="Git.Menu">
     <keyboard-shortcut first-keystroke="meta alt g" />
-    <keyboard-shortcut first-keystroke="ctrl g" />
   </action>
   <action id="GotoAction" />
   <action id="GotoNextError">

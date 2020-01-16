@@ -18,6 +18,7 @@
       <mapping ext="jenkinsfile" type="PLAIN_TEXT" />
       <mapping ext="rancherdeploy" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
+      <mapping ext="mock" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>

@@ -13,6 +13,7 @@
       <mapping pattern=".env.urbancode" type="PLAIN_TEXT" />
       <mapping pattern="fpr-ui-scv-testcafe" type="PLAIN_TEXT" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
+      <mapping ext="mmd" type="PLAIN_TEXT" />
       <mapping ext="mdx" type="PLAIN_TEXT" />
       <mapping ext="prod" type="PLAIN_TEXT" />
       <mapping ext="jenkinsfile" type="PLAIN_TEXT" />

@@ -2,6 +2,10 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="sit" type="Dockerfile" />
+      <mapping ext="flash" type="Dockerfile" />
+      <mapping ext="validate" type="Dockerfile" />
+      <mapping ext="test" type="Dockerfile" />
+      <mapping ext="validateflash" type="Dockerfile" />
       <mapping ext="integration" type="Dockerfile" />
       <mapping pattern="FilteredDevelopmentList" type="PLAIN_TEXT" />
       <mapping pattern=".env.urbancode" type="PLAIN_TEXT" />
@@ -14,13 +18,13 @@
       <mapping pattern=".env.prod" type="PLAIN_TEXT" />
       <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
       <mapping pattern="fpr-ui-scv-testcafe" type="PLAIN_TEXT" />
-      <mapping ext="mmd" type="PLAIN_TEXT" />
-      <mapping ext="rancherdeploy" type="PLAIN_TEXT" />
-      <mapping ext="mdx" type="PLAIN_TEXT" />
-      <mapping ext="env" type="PLAIN_TEXT" />
       <mapping ext="mock" type="PLAIN_TEXT" />
+      <mapping ext="env" type="PLAIN_TEXT" />
       <mapping ext="prod" type="PLAIN_TEXT" />
+      <mapping ext="rancherdeploy" type="PLAIN_TEXT" />
+      <mapping ext="mmd" type="PLAIN_TEXT" />
       <mapping ext="jenkinsfile" type="PLAIN_TEXT" />
+      <mapping ext="mdx" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>

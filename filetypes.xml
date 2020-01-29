@@ -4,6 +4,7 @@
       <mapping ext="sit" type="Dockerfile" />
       <mapping ext="flash" type="Dockerfile" />
       <mapping ext="validate" type="Dockerfile" />
+      <mapping ext="wait" type="Dockerfile" />
       <mapping ext="test" type="Dockerfile" />
       <mapping ext="validateflash" type="Dockerfile" />
       <mapping ext="integration" type="Dockerfile" />

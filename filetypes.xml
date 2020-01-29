@@ -1,8 +1,11 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="build" type="Docker file" />
       <mapping ext="sit" type="Dockerfile" />
       <mapping ext="flash" type="Dockerfile" />
+      <mapping ext="copy" type="Dockerfile" />
+      <mapping ext="buildd" type="Dockerfile" />
       <mapping ext="validate" type="Dockerfile" />
       <mapping ext="wait" type="Dockerfile" />
       <mapping ext="test" type="Dockerfile" />

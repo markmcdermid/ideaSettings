@@ -19,4 +19,12 @@
   <template name="bf" value="before(function() {&#10;  $END$&#10;});" description="Inserts before() block" toReformat="true" toShortenFQNames="true" deactivated="true">
     <context />
   </template>
+  <template name="tf" value="import $fn$ from '../$filename$';&#10;&#10;describe('$fn$', () =&gt; {&#10;  it('$test$', () =&gt; {&#10;    $END$&#10;  });&#10;});" toReformat="true" toShortenFQNames="true">
+    <variable name="fn" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="filename" expression="lowercaseAndDash(fn)" defaultValue="" alwaysStopAt="false" />
+    <variable name="test" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>

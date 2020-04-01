@@ -15,6 +15,10 @@
     <keyboard-shortcut first-keystroke="meta n" />
   </action>
   <action id="AutoIndentLines" />
+  <action id="CheckinProject">
+    <keyboard-shortcut first-keystroke="meta k" />
+    <keyboard-shortcut first-keystroke="ctrl g" />
+  </action>
   <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
@@ -113,9 +117,7 @@
     <keyboard-shortcut first-keystroke="meta add" />
   </action>
   <action id="FileChooser.GotoProject" />
-  <action id="FileStructurePopup">
-    <keyboard-shortcut first-keystroke="meta e" />
-  </action>
+  <action id="FileStructurePopup" />
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="shift ctrl d" />
   </action>
@@ -133,6 +135,10 @@
     <keyboard-shortcut first-keystroke="meta alt g" />
   </action>
   <action id="GotoAction" />
+  <action id="GotoNextError">
+    <keyboard-shortcut first-keystroke="f2" />
+    <keyboard-shortcut first-keystroke="meta e" />
+  </action>
   <action id="GotoTest" />
   <action id="Images.Editor.ZoomIn">
     <keyboard-shortcut first-keystroke="meta add" />
@@ -148,10 +154,16 @@
   <action id="Macro.Add semicolon">
     <keyboard-shortcut first-keystroke="meta semicolon" />
   </action>
+  <action id="Macro.Tidy2">
+    <keyboard-shortcut first-keystroke="shift alt tab" />
+  </action>
   <action id="Macro.make smaller">
     <keyboard-shortcut first-keystroke="meta alt comma" />
   </action>
   <action id="Macro.semi">
+    <keyboard-shortcut first-keystroke="meta semicolon" />
+  </action>
+  <action id="Macro.semicolon">
     <keyboard-shortcut first-keystroke="meta semicolon" />
   </action>
   <action id="MethodDown" />
@@ -182,11 +194,8 @@
   </action>
   <action id="RecentChangedFiles" />
   <action id="RecentFiles" />
+  <action id="RecentLocations" />
   <action id="ReformatCode" />
-  <action id="ReformatWithPrettierAction">
-    <keyboard-shortcut first-keystroke="shift meta alt p" />
-    <keyboard-shortcut first-keystroke="shift alt tab" />
-  </action>
   <action id="RemoteHost.NewRemoteItem">
     <keyboard-shortcut first-keystroke="meta n" />
   </action>
@@ -204,7 +213,6 @@
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
   <action id="SelectNextOccurrence">
-    <keyboard-shortcut first-keystroke="ctrl g" />
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
   <action id="ShelveChanges.UnshelveWithDialog" />
@@ -255,6 +263,7 @@
   <action id="ToggleDistractionFreeMode">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
+  <action id="UML.ShowStructure" />
   <action id="Uml.NewElement">
     <keyboard-shortcut first-keystroke="meta n" />
   </action>

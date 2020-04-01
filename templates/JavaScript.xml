@@ -83,7 +83,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="r" value="import React, {Component} from 'react';" description="react component" toReformat="false" toShortenFQNames="true">
+  <template name="r" value="import React from 'react';" description="react component" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="TypeScript" value="true" />
@@ -97,7 +97,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="logg" value="console.log('%c --------v $var$ $var2$ --------v', 'color: white; font-size: 18px;');&#10;console.log($var2$);" description="Big Console Log * 2" toReformat="false" toShortenFQNames="true">
+  <template name="logg" value="console.log('%c --------v $var$ $var2$ --------v', 'color: red; font-size: 18px;');&#10;console.log($var2$);" description="Big Console Log * 2" toReformat="false" toShortenFQNames="true">
     <variable name="var2" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="var" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
@@ -144,6 +144,12 @@
     <variable name="props" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="func" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="pt" value="import PropTypes from 'prop-types';" description="react component" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
       <option name="TypeScript" value="true" />
     </context>
   </template>

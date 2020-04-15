@@ -4,9 +4,14 @@
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
   <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateFindToolWindow" />
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="meta 2" />
+  </action>
+  <action id="ActivateVersionControlToolWindow">
+    <keyboard-shortcut first-keystroke="meta 9" />
+    <keyboard-shortcut first-keystroke="meta 3" />
   </action>
   <action id="Arrangement.Alias.Rule.Add">
     <keyboard-shortcut first-keystroke="meta n" />
@@ -116,6 +121,7 @@
   <action id="ExpandRegion">
     <keyboard-shortcut first-keystroke="meta add" />
   </action>
+  <action id="FileChooser.GotoModule" />
   <action id="FileChooser.GotoProject" />
   <action id="FileStructurePopup" />
   <action id="FindNext">

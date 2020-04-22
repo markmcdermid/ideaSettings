@@ -18,5 +18,6 @@
     <mask>*.ts</mask>
     <mask>*.jsx</mask>
     <mask>*.js</mask>
+    <mask>!*package-lock.json|!*.lock</mask>
   </component>
 </application>

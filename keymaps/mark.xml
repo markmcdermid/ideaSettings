@@ -78,6 +78,10 @@
   <action id="EditorIncreaseFontSize">
     <keyboard-shortcut first-keystroke="meta equals" />
   </action>
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="end" />
+    <keyboard-shortcut first-keystroke="meta right" />
+  </action>
   <action id="EditorLookupDown" />
   <action id="EditorLookupUp" />
   <action id="EditorNextWord">
@@ -143,7 +147,7 @@
   <action id="GotoAction" />
   <action id="GotoNextError">
     <keyboard-shortcut first-keystroke="f2" />
-    <keyboard-shortcut first-keystroke="meta e" />
+    <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
   <action id="GotoTest" />
   <action id="Images.Editor.ZoomIn">
@@ -174,6 +178,10 @@
   </action>
   <action id="MethodDown" />
   <action id="MethodUp" />
+  <action id="NavBar-selectEnd">
+    <keyboard-shortcut first-keystroke="end" />
+    <keyboard-shortcut first-keystroke="meta right" />
+  </action>
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="meta n" />
   </action>
@@ -199,7 +207,6 @@
     <mouse-shortcut keystroke="control button2" />
   </action>
   <action id="RecentChangedFiles" />
-  <action id="RecentFiles" />
   <action id="RecentLocations" />
   <action id="ReformatCode" />
   <action id="RemoteHost.NewRemoteItem">

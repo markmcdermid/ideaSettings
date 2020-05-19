@@ -8,5 +8,13 @@
       <action id="OptimizeImports" />
       <action id="Javascript.Linters.EsLint.Fix" />
     </macro>
+    <macro name="React">
+      <action id="ToggleBookmark" />
+      <action id="EditorPageUp" />
+      <action id="EditorStartNewLineBefore" />
+      <typing text-keycode="82:0">r</typing>
+      <action id="ExpandLiveTemplateByTab" />
+      <action id="GotoNextBookmark" />
+    </macro>
   </component>
 </application>

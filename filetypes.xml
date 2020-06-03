@@ -16,6 +16,7 @@
       <mapping pattern=".env.prod" type="PLAIN_TEXT" />
       <mapping pattern="corporate-pensions-scv-ods.js" type="PLAIN_TEXT" />
       <mapping pattern="FilteredDevelopmentList" type="PLAIN_TEXT" />
+      <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
       <mapping pattern="fpr-ui-scv-testcafe" type="PLAIN_TEXT" />
       <mapping pattern=".env.rancher" type="PLAIN_TEXT" />
       <mapping ext="mdx" type="PLAIN_TEXT" />

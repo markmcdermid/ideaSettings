@@ -4,7 +4,7 @@
     <property name="created">2020-04-03T11:43:46</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2019.3.4.0.0</property>
-    <property name="modified">2020-07-07T10:26:46</property>
+    <property name="modified">2020-07-07T12:26:29</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -2546,7 +2546,7 @@
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ffffff" />
-        <option name="BACKGROUND" value="ff001c" />
+        <option name="BACKGROUND" value="763f44" />
       </value>
     </option>
     <option name="OC.CLASS_REFERENCE">

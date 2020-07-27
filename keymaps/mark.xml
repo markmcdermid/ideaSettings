@@ -273,9 +273,6 @@
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
   <action id="Switcher" />
-  <action id="ToggleDistractionFreeMode">
-    <keyboard-shortcut first-keystroke="ctrl enter" />
-  </action>
   <action id="UML.ShowStructure" />
   <action id="Uml.NewElement">
     <keyboard-shortcut first-keystroke="meta n" />

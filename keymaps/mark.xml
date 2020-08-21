@@ -273,6 +273,9 @@
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
   <action id="Switcher" />
+  <action id="TypeScript.Restart.Service">
+    <keyboard-shortcut first-keystroke="shift meta 1" />
+  </action>
   <action id="UML.ShowStructure" />
   <action id="Uml.NewElement">
     <keyboard-shortcut first-keystroke="meta n" />

@@ -1,0 +1,10 @@
+<templateSet group="Zen HTML">
+  <template name="map" value="&lt;map name=&quot;$VAR0$&quot;&gt;$END$&lt;/map&gt;" description="&lt;map name=&quot;...&quot;&gt;...&lt;/map&gt;" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <variable name="index" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="key" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="key" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="key" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+</templateSet>

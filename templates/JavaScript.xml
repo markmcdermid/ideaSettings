@@ -96,9 +96,8 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="logg" value="console.log('%c --------v $var$ $var2$ --------v', 'color: red; font-size: 18px;');&#10;console.log($var2$);" description="Big Console Log * 2" toReformat="false" toShortenFQNames="true">
+  <template name="logg" value="console.log('$var2$', $var2$);" description="Big Console Log * 2" toReformat="false" toShortenFQNames="true">
     <variable name="var2" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="var" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="TypeScript" value="true" />

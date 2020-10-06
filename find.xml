@@ -19,9 +19,9 @@
     <mask>!*.test.js</mask>
     <mask>*.js</mask>
     <mask>!*package-lock.json|!*.lock</mask>
-    <mask>*.jsx</mask>
     <mask>*.json</mask>
     <mask>*.js,*.json,*.jsx</mask>
     <mask>*.ts</mask>
+    <mask>*.jsx</mask>
   </component>
 </application>

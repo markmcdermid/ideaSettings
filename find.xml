@@ -19,7 +19,6 @@
     <mask>!*.html</mask>
     <mask>!*.spec.*</mask>
     <mask>!*.test.js</mask>
-    <mask>*.js</mask>
     <mask>!*package-lock.json|!*.lock</mask>
     <mask>*.js,*.json,*.jsx</mask>
     <mask>*.ts</mask>
@@ -28,5 +27,6 @@
     <mask>!*.njk</mask>
     <mask>*.stories.js</mask>
     <mask>*.test*</mask>
+    <mask>*.js</mask>
   </component>
 </application>

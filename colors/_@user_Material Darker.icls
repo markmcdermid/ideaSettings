@@ -4,7 +4,7 @@
     <property name="created">2020-04-03T11:43:46</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2019.3.4.0.0</property>
-    <property name="modified">2020-09-26T13:41:20</property>
+    <property name="modified">2020-10-20T17:36:56</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -166,7 +166,7 @@
     </option>
     <option name="BAD_CHARACTER">
       <value>
-        <option name="EFFECT_COLOR" value="ff5370" />
+        <option name="BACKGROUND" value="ff0000" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -554,7 +554,7 @@
     </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
       <value>
-        <option name="EFFECT_COLOR" value="ff5370" />
+        <option name="BACKGROUND" value="810000" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -696,7 +696,10 @@
       </value>
     </option>
     <option name="DUPLICATE_FROM_SERVER">
-      <value />
+      <value>
+        <option name="EFFECT_COLOR" value="d79249" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
     </option>
     <option name="ELIXIR_BIT">
       <value>
@@ -1078,7 +1081,7 @@
     </option>
     <option name="INFO_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="ffcf00" />
+        <option name="BACKGROUND" value="de942e" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -3040,7 +3043,9 @@
       </value>
     </option>
     <option name="RUNTIME_ERROR">
-      <value />
+      <value>
+        <option name="BACKGROUND" value="de942e" />
+      </value>
     </option>
     <option name="ReSharper.ASP_NET_ATTRIBUTE_NAME">
       <value>
@@ -3389,7 +3394,7 @@
     </option>
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="bd92ea" />
+        <option name="FOREGROUND" value="ffeb95" />
       </value>
     </option>
     <option name="TEXT">
@@ -3448,6 +3453,7 @@
     </option>
     <option name="TYPO">
       <value>
+        <option name="EFFECT_COLOR" value="d79249" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>

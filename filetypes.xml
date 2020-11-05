@@ -20,6 +20,7 @@
       <mapping pattern=".env.prod" type="PLAIN_TEXT" />
       <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
+      <mapping ext="out" type="PLAIN_TEXT" />
       <mapping ext="mock" type="PLAIN_TEXT" />
       <mapping ext="mmd" type="PLAIN_TEXT" />
       <mapping ext="mdx" type="PLAIN_TEXT" />

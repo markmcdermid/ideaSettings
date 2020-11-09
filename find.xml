@@ -22,7 +22,7 @@
     <mask>!*.njk</mask>
     <mask>*.stories.js</mask>
     <mask>*.test*</mask>
-    <mask>*.js</mask>
     <mask>*.ts</mask>
+    <mask>*.js</mask>
   </component>
 </application>

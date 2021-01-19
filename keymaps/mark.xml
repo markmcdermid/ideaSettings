@@ -276,6 +276,7 @@
   <action id="Switcher" />
   <action id="TypeScript.Restart.Service">
     <keyboard-shortcut first-keystroke="shift meta 1" />
+    <keyboard-shortcut first-keystroke="shift meta exclamation_mark" />
   </action>
   <action id="UML.ShowStructure" />
   <action id="Uml.NewElement">
